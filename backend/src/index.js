@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 /* Asignación del puerto */
-const port = 3000
+const port = 4000
 /* Importación de los respectivos endpoints */
 const userRoutes = require("./routes/Users");
 
