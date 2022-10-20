@@ -37,7 +37,6 @@ export const Grid = () => {
                         <td className='p-2 text-xl text-gray-700 whitespace-nowrap '>
                         <a href={repositories.html_url} className='bg-green-200 rounded-xl bg-opacity-50 px-5 py-1'> GitHub </a>
                         </td>
-
                 </tr>
 ))}
             </tbody>
