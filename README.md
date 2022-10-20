@@ -67,3 +67,6 @@ Esta prueba cuenta con dos componentes los cuales son:
   Y el programa se procedera a ejecutar en la siguiente dirección: localhost:4000
   En caso de que quiera cambiar el puerto lo podrá hacer. Para lo cual tendrá que irse al archivo denominado ```index.js``` dentro del backend 
   y cambiar el puerto donde se presenta el mismo.
+
+### ASPECTO RELEVANTE
+Un aspecto el cual considero relevante dentro del código es en la parte del backend es al momento de realizar la búsquedad de posiciones de los usuarios. Al principio no tenia una idea clara de como poder realizar esto, por lo cual tuve que buscar información sobre como se puede realizar dicho endpoint y encontre varias respuestas las cuales apuntaban a que la propiedad filter nos podría ayudar filtrando los datos del archivo JSON permitiendonos así buscar y mostrar las respectivas posiciones de lo usuarios, logrando facilitar el trabajo y cumpliendo con los objetivos planteados de la prueba.
